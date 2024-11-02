@@ -1,7 +1,3 @@
-Summary
-The Apache Tomcat Manager/Host Manager/Server Status is using default or known
-hardcoded credentials.
-Scoring
 CVSS
 CVSS Base
 10.0 (High)
